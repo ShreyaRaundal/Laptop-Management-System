@@ -24,3 +24,5 @@ It provides basic CRUD operations such as registering laptops, fetching details,
 ---
 
 ## 📂 Project Structure
+<img width="380" height="321" alt="image" src="https://github.com/user-attachments/assets/1d2ed831-5578-4964-9701-bd50542bf5d8" />
+
